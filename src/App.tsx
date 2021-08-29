@@ -1,11 +1,12 @@
 import React from 'react'
+// import { Header } from './components/header/Header'
+// import { Footer } from './components/footer/Footer'
+import { HeroPage } from './components/pages/HeroPage'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <div>HELLOWORLD</div>
-      </header>
+      <HeroPage />
     </div>
   )
 }
