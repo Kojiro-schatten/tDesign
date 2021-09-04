@@ -1,0 +1,10 @@
+.hero {
+  &-container {
+    width: 100%;
+  }
+  &-image {
+    height: 100vh;
+    background: url(../../images/Video@2x.png) no-repeat center center fixed;
+    background-size: cover;
+  }
+}
